@@ -11,10 +11,6 @@ output "location" {
   value = var.location
 }
 
-output "resource_suffix" {
-  value = var.resource_suffix
-}
-
 output "vnet_id" {
   value = azurerm_virtual_network.this.name
 }
