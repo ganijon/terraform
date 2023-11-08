@@ -1,5 +1,5 @@
 variable "application" {
-  default = "lab02"
+  default = "Lab03"
 }
 
 variable "domain" {
@@ -11,11 +11,11 @@ variable "resource_prefix" {
 }
 
 variable "resource_suffix" {
-  default = "00"
+  default = "02"
 }
 
 variable "owners" {
-  default = "gani, gr, sesa470971"
+  default = "Gani, GR, SESA470971"
 }
 
 variable "location" {
@@ -23,10 +23,10 @@ variable "location" {
 }
 
 variable "environment" {
-  default = "dev"
+  default = "DEV"
   validation {
-    condition     = contains(["dev", "stg", "prd"], var.environment)
-    error_message = "valid environments= dev, str, prd"
+    condition     = contains(["DEV", "STG", "PRD"], var.environment)
+    error_message = "valid environments: DEV, STG, PRD"
   }
 }
 
