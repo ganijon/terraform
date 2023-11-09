@@ -1,0 +1,1 @@
+terraform plan -var-file env-vars/dev/env.tfvars
