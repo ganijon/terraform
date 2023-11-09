@@ -11,7 +11,7 @@ variable "resource_prefix" {
 }
 
 variable "resource_suffix" {
-  default = "02"
+  default = "00"
 }
 
 variable "owners" {

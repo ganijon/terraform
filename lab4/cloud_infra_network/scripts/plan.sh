@@ -1,1 +1,1 @@
-terraform plan -var-file env-vars/dev/env.tfvars
+terraform plan -var-file env-vars/dev/env.tfvars -out plan.out

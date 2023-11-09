@@ -1,1 +1,1 @@
-terraform apply -auto-approve -var-file env-vars/dev/env.tfvars 
+terraform apply "plan.out"
