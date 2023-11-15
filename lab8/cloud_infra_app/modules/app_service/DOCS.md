@@ -1,3 +1,4 @@
+<!-- BEGIN_TF_DOCS -->
 ## Requirements
 
 No requirements.
@@ -39,3 +40,4 @@ No modules.
 | <a name="output_app_service_default_hostname"></a> [app\_service\_default\_hostname](#output\_app\_service\_default\_hostname) | n/a |
 | <a name="output_app_service_id"></a> [app\_service\_id](#output\_app\_service\_id) | n/a |
 | <a name="output_private_endpoint_id"></a> [private\_endpoint\_id](#output\_private\_endpoint\_id) | n/a |
+<!-- END_TF_DOCS -->

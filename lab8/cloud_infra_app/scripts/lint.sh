@@ -1,0 +1,2 @@
+tflint --init
+tflint
