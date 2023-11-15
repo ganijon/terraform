@@ -1,0 +1,1 @@
+aztfexport resource-group rg-tf-core-eus-dev-00

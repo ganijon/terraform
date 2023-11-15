@@ -1,0 +1,37 @@
+{
+	"/subscriptions/56dfbfd9-5a52-4e99-a925-2bffb4c7788d/resourceGroups/rg-tf-core-eus-dev-00": {
+		"resource_id": "/subscriptions/56dfbfd9-5a52-4e99-a925-2bffb4c7788d/resourceGroups/rg-tf-core-eus-dev-00",
+		"resource_type": "azurerm_resource_group",
+		"resource_name": "res-0"
+	},
+	"/subscriptions/56dfbfd9-5a52-4e99-a925-2bffb4c7788d/resourceGroups/rg-tf-core-eus-dev-00/providers/Microsoft.ContainerRegistry/registries/crtfcoreeusdev00": {
+		"resource_id": "/subscriptions/56dfbfd9-5a52-4e99-a925-2bffb4c7788d/resourceGroups/rg-tf-core-eus-dev-00/providers/Microsoft.ContainerRegistry/registries/crtfcoreeusdev00",
+		"resource_type": "azurerm_container_registry",
+		"resource_name": "res-1"
+	},
+	"/subscriptions/56dfbfd9-5a52-4e99-a925-2bffb4c7788d/resourceGroups/rg-tf-core-eus-dev-00/providers/Microsoft.ContainerRegistry/registries/crtfcoreeusdev00/scopeMaps/_repositories_admin": {
+		"resource_id": "/subscriptions/56dfbfd9-5a52-4e99-a925-2bffb4c7788d/resourceGroups/rg-tf-core-eus-dev-00/providers/Microsoft.ContainerRegistry/registries/crtfcoreeusdev00/scopeMaps/_repositories_admin",
+		"resource_type": "azurerm_container_registry_scope_map",
+		"resource_name": "res-2"
+	},
+	"/subscriptions/56dfbfd9-5a52-4e99-a925-2bffb4c7788d/resourceGroups/rg-tf-core-eus-dev-00/providers/Microsoft.ContainerRegistry/registries/crtfcoreeusdev00/scopeMaps/_repositories_pull": {
+		"resource_id": "/subscriptions/56dfbfd9-5a52-4e99-a925-2bffb4c7788d/resourceGroups/rg-tf-core-eus-dev-00/providers/Microsoft.ContainerRegistry/registries/crtfcoreeusdev00/scopeMaps/_repositories_pull",
+		"resource_type": "azurerm_container_registry_scope_map",
+		"resource_name": "res-3"
+	},
+	"/subscriptions/56dfbfd9-5a52-4e99-a925-2bffb4c7788d/resourceGroups/rg-tf-core-eus-dev-00/providers/Microsoft.ContainerRegistry/registries/crtfcoreeusdev00/scopeMaps/_repositories_pull_metadata_read": {
+		"resource_id": "/subscriptions/56dfbfd9-5a52-4e99-a925-2bffb4c7788d/resourceGroups/rg-tf-core-eus-dev-00/providers/Microsoft.ContainerRegistry/registries/crtfcoreeusdev00/scopeMaps/_repositories_pull_metadata_read",
+		"resource_type": "azurerm_container_registry_scope_map",
+		"resource_name": "res-4"
+	},
+	"/subscriptions/56dfbfd9-5a52-4e99-a925-2bffb4c7788d/resourceGroups/rg-tf-core-eus-dev-00/providers/Microsoft.ContainerRegistry/registries/crtfcoreeusdev00/scopeMaps/_repositories_push": {
+		"resource_id": "/subscriptions/56dfbfd9-5a52-4e99-a925-2bffb4c7788d/resourceGroups/rg-tf-core-eus-dev-00/providers/Microsoft.ContainerRegistry/registries/crtfcoreeusdev00/scopeMaps/_repositories_push",
+		"resource_type": "azurerm_container_registry_scope_map",
+		"resource_name": "res-5"
+	},
+	"/subscriptions/56dfbfd9-5a52-4e99-a925-2bffb4c7788d/resourceGroups/rg-tf-core-eus-dev-00/providers/Microsoft.ContainerRegistry/registries/crtfcoreeusdev00/scopeMaps/_repositories_push_metadata_write": {
+		"resource_id": "/subscriptions/56dfbfd9-5a52-4e99-a925-2bffb4c7788d/resourceGroups/rg-tf-core-eus-dev-00/providers/Microsoft.ContainerRegistry/registries/crtfcoreeusdev00/scopeMaps/_repositories_push_metadata_write",
+		"resource_type": "azurerm_container_registry_scope_map",
+		"resource_name": "res-6"
+	}
+}
